@@ -9,7 +9,7 @@
 }
 
 :root {
-    --bg-color: #1f242d; /* Slightly transparent to show the video */
+    --bg-color: #1f242d;
     --text-color: #fff;
     --main-color: #ff7010;
 }
@@ -61,14 +61,14 @@ span {
 
 .navbar {
     display: flex;
-    flex: 1; /* Takes up remaining space */
-    justify-content: center; /* Centering the text links */
+    flex: 1;
+    justify-content: center;
 }
 
 .navbar a {
     font-size: 1.7rem;
     color: var(--text-color);
-    margin-right: 2rem; /* Adjusted margin for spacing */
+    margin-right: 2rem;
     transition: 0.3s;
 }
 
@@ -78,9 +78,9 @@ span {
 }
 
 .logo {
-    width: 150px; /* Adjusted width of the logo */
+    width: 150px;
     height: auto;
-    margin-left: auto; /* Pushes the logo to the right */
+    margin-left: auto;
 }
 
 #menu-icon {
