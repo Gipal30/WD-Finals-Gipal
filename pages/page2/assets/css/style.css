@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+:root {
+    --bg-color: #1f242d;
+    --second-bg-color: #323946;
+    --text-color: #fff;
+    --main-color: #ff7010;
+}
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+body {
+    background: var(--bg-color);
+    color: var(--text-color);
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 2rem 9%;
+    background: var(--bg-color);
+    display: flex;
+    align-items: center;
+    z-index: 100;
+}
+
+.navbar {
+    display: flex;
+    flex: 1;
+    justify-content: flex-start;
+}
+
+.navbar a {
+    font-size: 1.7rem;
+    color: var(--text-color);
+    margin-left: 2rem;
+    transition: color 0.3s;
+}
+
+.navbar a:hover,
+.navbar a.active {
+    color: var(--main-color);
+}
+
+#menu-icon {
+    font-size: 3.6rem;
+    color: var(--text-color);
+    display: none;
+}
+
+.logo img {
+    width: 200px;
+    height: auto;
+    margin-left: 1rem;
+}
+
+.experience {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    background: var(--second-bg-color);
+    padding: 10rem 9% 2rem;
+}
+
+.experience-content {
+    text-align: center;
+    line-height: 1.2;
+}
+
+.experience-content h2 {
+    font-size: 9rem;
+}
+
+.experience-content p {
+    font-size: 3rem;
+    margin: 3rem 0;
+}
+
+.image-section {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.image-section img {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
