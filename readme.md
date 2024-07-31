@@ -56,6 +56,11 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 Description of the project in details.
+What is the project? This project is about making our own website or portfolio compiling all of our past hands on and seatworks in Web designing.
+
+Whats the purpose? The purpose of this project is to showcase what we gained knowledge, skills and experience on Web designing.
+
+Access to our past projects.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
