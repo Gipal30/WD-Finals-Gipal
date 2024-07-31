@@ -57,20 +57,12 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-  Website
-- Whats the purpose
-  Finals
-- What are key components
-- What technology used and how it is used
-
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
 - Parallax transition
-- Transactional
+- Responsive
 
 ### Technology
 <!-- TODO: List of Technology Used -->
