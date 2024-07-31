@@ -59,7 +59,9 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+  Website
 - Whats the purpose
+  Finals
 - What are key components
 - What technology used and how it is used
 
