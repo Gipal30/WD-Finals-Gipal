@@ -11,7 +11,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This repository is to present my personal website.
 </div>
 
 <br />
