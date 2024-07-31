@@ -108,7 +108,6 @@ WD-ProjectName
 ```
 
 ## Resources
-|-|-|-|
 | Youtube | to take a video for background | youtube.com |
 | css.gg | used for some icons | css.gg |
 
